@@ -1,0 +1,12 @@
+Metadata-Version: 1.1
+Name: shot
+Version: 0.2.3
+Summary: Super micro web framework for Python
+Home-page: https://github.com/2peppers/shot
+Author: Viktor Moyseyenko
+Author-email: vityok@gmail.com
+License: UNKNOWN
+Download-URL: https://github.com/2peppers/shot/tarball/0.1
+Description: UNKNOWN
+Keywords: web,wsgi,template,framework
+Platform: UNKNOWN

@@ -1,0 +1,10 @@
+Metadata-Version: 1.0
+Name: pyautoit-win64
+Version: 1.0.3
+Summary: Python binding for AutoItX3.dll 支持64位dll
+Home-page: https://github.com/xuepl/pyautoit-64.git
+Author: xuepl
+Author-email: xuepl@guoyasoft.com
+License: MIT
+Description: UNKNOWN
+Platform: python
